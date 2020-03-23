@@ -1,0 +1,14 @@
+figure.facecolor : (1.0, 0.9450980392156862, 0.9019607843137255)
+axes.facecolor : (1.0, 0.9450980392156862, 0.9019607843137255)
+axes.grid : True
+axes.grid.which : major
+xtick.color : (0.29411764705882354, 0.29411764705882354, 0.29411764705882354)
+ytick.color : (0.29411764705882354, 0.29411764705882354, 0.29411764705882354)
+axes.spines.top : False
+axes.spines.right : False
+axes.spines.bottom : False
+axes.spines.left : False
+xtick.bottom : False
+ytick.left : False
+patch.facecolor : (0.9921568627450981, 0.6588235294117647, 0.6392156862745098)
+savefig.facecolor : (1.0, 0.9450980392156862, 0.9019607843137255)
